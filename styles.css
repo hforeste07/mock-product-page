@@ -16,13 +16,12 @@ body {
 
 .main-image{
     margin: 0, auto;
-    height: auto;
     justify-content: center;
 }
 
 .main-img {
     box-shadow: 0px 2px 5px lightgray;
-    height: auto;
+    width: 500px;
     justify-content: center;
 }
 
