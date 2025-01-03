@@ -40,4 +40,5 @@ body {
 
 .first-book{
     align-items: center;
+    display: flex;
 }
