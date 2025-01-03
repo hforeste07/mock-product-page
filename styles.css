@@ -26,6 +26,10 @@ body {
     justify-content: center;
 }
 
+.rating{
+    width: 100px;
+}
+
 .description{
     margin-left: 50px;
     width: 800px;
