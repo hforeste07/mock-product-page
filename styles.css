@@ -1,0 +1,36 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    display: flex;
+    margin: 10px 10px 10px 10px;
+    justify-content:space-around;
+}
+
+.title {
+    font-weight: lighter;
+}
+
+.navigation{
+    color: #565959;
+    font-size: smaller;
+}
+
+.main-image{
+    margin: 0, auto;
+    justify-content: center;
+}
+
+.main-img {
+    box-shadow: 0px 2px 5px lightgray;
+    height: 400px;
+    justify-content: center;
+}
+
+.description{
+    margin-left: 50px;
+    align-items: center;
+}
+
+.author-bio{
+    color: #007185;
+}
+
